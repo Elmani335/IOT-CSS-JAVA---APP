@@ -1,5 +1,5 @@
 /*******************************************************************************
- * Copyright (c) 2015 IBM Corp.
+ * Copyright (c) 2020 Elmani335.
  *
  * All rights reserved. This program and the accompanying materials
  * are made available under the terms of the Eclipse Public License v1.0
@@ -10,9 +10,6 @@
  * and the Eclipse Distribution License is available at
  *   http://www.eclipse.org/org/documents/edl-v10.php.
  *
- * Contributors:
- *   Bryan Boyd - Initial implementation
- *	 Alan Blyth - Modified to favour SSL over port 8883
  *******************************************************************************/
 (function(window){
     var ax = 0, ay = 0, az = 0, oa = 0, ob = 0, og = 0;
